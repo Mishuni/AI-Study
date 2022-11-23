@@ -31,7 +31,7 @@
 ---  
 ### Regularization
 
-
+* [regularization](./ML/일반화.md)
 
 <br>
 
