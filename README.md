@@ -20,7 +20,6 @@
 
 
 
-
 ---
 
 ### Date Preprocessing
@@ -29,12 +28,19 @@
 
 * [Time Serise Data](./Time-Series)
 
-  
-
-#### Optimization
-
+---  
+### Regularization
 
 
+
+<br>
+
+---
+
+### Optimization
+
+
+<br>
 
 ---
 
