@@ -72,3 +72,5 @@
 [Pattern Recognition and Machine Learning_summary](http://norman3.github.io/prml/)
 
 [Neural network Architecture](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
+
+[MLQuestions](https://github.com/andrewekhalel/MLQuestions)
